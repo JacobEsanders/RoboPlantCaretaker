@@ -8,6 +8,6 @@
 
 ## 11/6/2025 - Day 1  
 
-I've spent 2 hours messing around with fusion 360 I'm starting to get a design I like. I've nevcer used it before but I'm making some decent progress.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--b900edc9e75c5905cb04c0fac198d313da9cfad4/image.png)
+I've spent 2 hours messing around with fusion 360 I'm starting to get a design I like. I've never used it before but I'm making some decent progress!.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--b900edc9e75c5905cb04c0fac198d313da9cfad4/image.png)
   
 
